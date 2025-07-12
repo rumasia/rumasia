@@ -28,7 +28,8 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=rumasia&show_icons=true&theme=nightowl&border_color=22D3EE&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&include_all_commits=true" alt="GitHub Stats" style="box-shadow: 0 0 15px rgba(34, 211, 238, 0.3); border-radius: 10px;">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumasia&theme=nightowl&background=0D1117&border=22D3EE&stroke=22D3EE&ring=22D3EE&fire=FF9E64&currStreakLabel=22D3EE" alt="GitHub Streak" style="box-shadow: 0 0 15px rgba(34, 211, 238, 0.3); border-radius: 10px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumasia&theme=nightowl&background=0D1117&border=22D3EE&stroke=22D3EE&ring=22D3EE&fire=FF9E64&currStreakLabel=22D3EE" alt="GitHub Streak" style="box-shadow: 0 0 15px rgba(34, 211, 238, 0.3); border-radius: 10px;">
+
 </div>
 
 ---
