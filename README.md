@@ -44,17 +44,3 @@
 
 
 
-<!-- GitHub Activity Graph -->
-<h2 align="center" style="border-bottom: 2px solid #22D3EE; padding-bottom: 10px; display: inline-block; margin: 50px 0 20px;">📈 Coding Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumaisa&theme=nightowl&bg_color=0D1117&color=22D3EE&line=0EA5E9&point=22D3EE&area=true&hide_border=true" width="90%">
-</div>
-
-<!-- Visitor Counter -->
-<div align="center" style="margin: 40px 0 20px;">
-  <img src="https://komarev.com/ghpvc/?username=rumaisa&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
-</div>
-
-<!-- Animated Divider -->
-<div align="center" style="height: 2px; width: 80%; background: linear-gradient(90deg, transparent, #22D3EE, transparent); margin: 30px auto;"></div>
-
